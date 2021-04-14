@@ -1,0 +1,12 @@
+{
+  "name": "typescript-transform",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@swc/core": "^1.2.52",
+    "@vue/compiler-core": "^3.0.11",
+    "@vue/compiler-sfc": "^3.0.11",
+    "esbuild": "^0.11.10"
+  }
+}
